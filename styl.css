@@ -1,0 +1,25 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(1, 10, 59);
+    background-color: rgb(145, 167, 123);
+}
+
+/* unvisited link */
+a:link {
+
+}
+
+/* visited link */
+a:visited {
+
+}
+
+/* mouse over link */
+a:hover {
+
+}
+
+/* selected link */
+a:active {
+
+}
